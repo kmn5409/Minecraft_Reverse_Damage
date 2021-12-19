@@ -1,0 +1,7 @@
+name: reverseAttack
+main: me.keanunichols.reverseattack.Main
+version: 1.0
+api-version: 1.13
+commands:
+   potion_rain:
+      description: block attack
